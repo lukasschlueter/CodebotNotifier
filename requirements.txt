@@ -1,0 +1,2 @@
+win10toast==0.8
+selenium==3.5.0
